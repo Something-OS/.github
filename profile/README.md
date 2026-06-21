@@ -1,4 +1,4 @@
-# 📱 Something OS
+# <img src="https://raw.githubusercontent.com/Something-OS/.github/main/profile/logo.png" width="45" height="45" valign="middle" alt="Something OS Logo"> Something OS
 
 Welcome to the official **Something OS** developer organization. Something OS is a production-ready, modular, AOSP-inspired Linux distribution built for mobile devices, scaling a hardware-accelerated Qt6/QML desktop shell on top of a modern mainline kernel and custom Ubuntu base.
 
